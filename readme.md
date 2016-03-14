@@ -15,8 +15,10 @@ Manier van werken:
 * maak eerst een repository aan in GitHub
 * maak een project aan in Google App Engine
 * koppel de source-repository van dit project aan de GitHub repository
-* maak een workspace aan in 
-* 
+* maak een workspace aan in Cloud9
+* en koppel deze workspace aan de Google git repository
+
+Veranderingen in de Google git repository worden automatisch verwerkt in de GitHub repository, en omgekeerd.
 
 Hoe kun je nu de google app engine toepassing opstarten? Dat kan niet via de console van Google App Engine: dit moet via een gcloud-commando.
 
@@ -26,4 +28,5 @@ Dit command werkt niet de git-versie van de code bij: dat moet je via de normale
 
 ### Aanmaken van een workspace gelinkt aan GitHub
 
-* hoe koppel je dit 
+* hoe koppel je dit?
+* 
