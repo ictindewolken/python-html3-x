@@ -22,6 +22,8 @@ Hoe kun je nu de google app engine toepassing opstarten? Dat kan niet via de con
 
 `appcfg.py update .`
 
+Dit command werkt niet de git-versie van de code bij: dat moet je via de normale git-opdrachten doen.
+
 ### Aanmaken van een workspace gelinkt aan GitHub
 
 * hoe koppel je dit 
