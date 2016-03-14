@@ -113,7 +113,7 @@ class TodoItemHandler(webapp2.RequestHandler):
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-        self.response.write('Hello world from Python!')
+        self.response.write('Hello world from Python (c9)!')
 
 app = webapp2.WSGIApplication([
     (r'/', MainHandler),
